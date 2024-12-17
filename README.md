@@ -14,5 +14,5 @@ Bu bot, Discord sunucularınızda daha etkili iletişim ve medya yönetimi için
 
 
 
-
+![Ekran görüntüsü 2024-12-17 194500](https://github.com/user-attachments/assets/5bf616c3-e171-4744-a77b-5d02215711ee)
 
